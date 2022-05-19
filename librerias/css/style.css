@@ -1,0 +1,83 @@
+*{
+    background-color: darkblue;
+}
+
+p{
+
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: antiquewhite;
+  background-color: indigo;
+  padding: 1cm 1cm;
+  margin-top: 3px;
+  margin-left: 18px;
+  margin-right: 18px;
+  text-align: justify;
+  
+}
+
+address{
+  color: beige;
+}
+
+a{
+
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  padding: 10px 20px;
+  background-color: indigo;  
+  color: antiquewhite;
+  border-style: solid ;
+  
+}
+
+#titulo{
+
+    font-style:oblique;
+    color: aqua;
+}
+
+#boton1{
+
+  position: absolute;
+  left: 430px;
+  top: 600px;
+}
+
+#boton2{
+
+  position: absolute;
+  left: 690px;
+  top: 600px;
+}
+
+#boton3{
+
+  position: absolute;
+  left: 930px;
+  top: 600px;
+}
+
+#boton4{
+  position: absolute;
+  left: 1200px;
+  top: 650px;
+
+}
+
+#boton5{
+  position: absolute;
+  left: 50px;
+  top: 650px;
+
+}
+
+img{
+  border-style: groove;
+  border-color: white;
+}
+#car{
+  font-style:oblique ;
+  font-size: 20px;
+  color: antiquewhite;
+  background-color: indigo;
+}
